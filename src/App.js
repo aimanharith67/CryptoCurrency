@@ -10,7 +10,7 @@ export default function App() {
   const [tableList,setTableList] = useState([])
   const [search,setSearch]= useState('')
 
-// testing
+
   useEffect(() =>{ 
     getAPI() 
     },[])
