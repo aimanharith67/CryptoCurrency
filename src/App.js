@@ -12,7 +12,7 @@ export default function App() {
 
 
   useEffect(() =>{ 
-    getAPI()
+    getAPI() 
     },[])
 
   //getAPI
