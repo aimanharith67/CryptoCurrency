@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+
+td{
+  width: 10%;
+  color: white;
+}
+
+body{
+  background-color: black;
+  color: white;
+} 
+
+.searchBar{    
+  background-image: linear-gradient(to right, #6a3093 , #a044ff) !important;
+  color: white !important;
+}
